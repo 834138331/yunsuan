@@ -1,0 +1,23 @@
+﻿生成启动时间为 2016/3/10 22:40:31。
+     1>项目“F:\计算器12345678\计算器12345678\计算器12345678.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\计算器12345678.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         F:\新建文件夹 (2)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\计算器12345678.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "计算器12345678.cpp"
+         计算器12345678.cpp
+     1>f:\计算器12345678\计算器12345678\计算器12345678.cpp(217): error C2059: 语法错误:“[”
+     1>f:\计算器12345678\计算器12345678\计算器12345678.cpp(218): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>f:\计算器12345678\计算器12345678\计算器12345678.cpp(219): error C2046: 非法的 case
+     1>f:\计算器12345678\计算器12345678\计算器12345678.cpp(220): error C2227: “->ch”的左边必须指向类/结构/联合/泛型类型
+     1>f:\计算器12345678\计算器12345678\计算器12345678.cpp(222): error C2228: “.push_back”的左边必须有类/结构/联合
+                 类型是“'unknown-type'”
+     1>f:\计算器12345678\计算器12345678\计算器12345678.cpp(232): error C2046: 非法的 case
+     1>f:\计算器12345678\计算器12345678\计算器12345678.cpp(265): error C2046: 非法的 case
+     1>f:\计算器12345678\计算器12345678\计算器12345678.cpp(268): error C2046: 非法的 case
+     1>f:\计算器12345678\计算器12345678\计算器12345678.cpp(380): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>已完成生成项目“F:\计算器12345678\计算器12345678\计算器12345678.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.41
